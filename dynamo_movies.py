@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Bernardo Martinez
 # Version 2
+# Another comment line for challenge #1!
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
